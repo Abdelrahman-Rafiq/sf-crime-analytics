@@ -46,7 +46,7 @@ DataSF API ──> Python Ingestion ──> PostgreSQL Database ──> SQL View
 The heatmap below shows the geographical distribution of reported
 crime incidents across San Francisco.
 
-![Crime Heatmap](notebooks/crime_heatmap.png)
+![Crime Heatmap](notebooks/sf_crime_heatmap.png)
 
 ### 🌐 Interactive Crime Heatmap
 
