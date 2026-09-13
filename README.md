@@ -41,6 +41,16 @@ DataSF API ──> Python Ingestion ──> PostgreSQL Database ──> SQL View
 * **Day-of-Week Pattern:** **Friday** recorded the highest number of incidents, while **Sunday** recorded the lowest.
 * **Spatial Distribution:** The **Central** police district recorded the highest number of incidents, accounting for approximately **16.53%** of the total, while the **Park** district recorded the lowest.
 
+## 🗺️ Spatial Analysis
+
+The heatmap below shows the geographical distribution of reported
+crime incidents across San Francisco.
+
+![Crime Heatmap](images/crime_heatmap.png)
+
+### 🌐 Interactive Crime Heatmap
+
+[Open the Interactive Heatmap](https://abdelrahman-rafiq.github.io/sf-crime-analytics/maps/crime_heatmap.html)
 ---
 
 ### 💡 Strategic Recommendations
@@ -81,4 +91,3 @@ DataSF API ──> Python Ingestion ──> PostgreSQL Database ──> SQL View
    jupyter notebook notebooks/03_crime_eda_analysis.ipynb
    ```
 
-🗺️ **Interactive Heatmap:** View or download the full interactive spatial map [here](./sf_crime_heatmap.html).
