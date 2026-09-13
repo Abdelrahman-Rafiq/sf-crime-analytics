@@ -80,3 +80,5 @@ DataSF API ──> Python Ingestion ──> PostgreSQL Database ──> SQL View
    ```bash
    jupyter notebook notebooks/03_crime_eda_analysis.ipynb
    ```
+
+🗺️ **Interactive Heatmap:** View or download the full interactive spatial map [here](./sf_crime_heatmap.html).
